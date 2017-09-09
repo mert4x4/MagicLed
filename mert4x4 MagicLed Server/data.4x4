@@ -1,0 +1,4 @@
+ip adress: 192.168.0.12
+port: 80
+device port: COM7
+device bound rate: 9600

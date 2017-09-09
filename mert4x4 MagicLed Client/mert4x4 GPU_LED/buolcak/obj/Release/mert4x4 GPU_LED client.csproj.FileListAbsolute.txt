@@ -1,0 +1,113 @@
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Release\buolcak.exe
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Release\OpenHardwareMonitorLib.dll
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Release\MERT4X4 GPU_LED.exe.config
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Release\MERT4X4 GPU_LED.exe
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Release\MERT4X4 GPU_LED.pdb
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\MERT4X4 GPU_LED.exe
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\MERT4X4 GPU_LED.pdb
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Release\GPU_LED.Properties.Resources.resources
+C:\Users\Mert4x4\Desktop\bu olucak\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 GPU_LED.exe.config
+C:\Users\Mert4x4\Desktop\bu olucak\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 GPU_LED.exe
+C:\Users\Mert4x4\Desktop\bu olucak\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 GPU_LED.pdb
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 GPU_LED.exe.config
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 GPU_LED.exe
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 GPU_LED.pdb
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 GPU_LED.exe
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 GPU_LED.pdb
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\GPU_LED.Properties.Resources.resources
+E:\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\mert4x4 GPU_LED\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.dll
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+C:\Users\Metin\Desktop\mert4x4 TempLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.dll
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+C:\Users\Metin\Desktop\aaaaaaaaaaaa\templed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.dll
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.Fonts.dll
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+E:\templed + logitech mouse 7 22 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.dll
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+C:\Users\Mert4x4\Desktop\templed + logitech mouse noserver 7 23 2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+C:\Users\Mert4x4\Desktop\templed_mouse_spotify 7.23.2017\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+E:\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+E:\projeler\mert4x4 MagicLed\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe.config
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.exe
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\MERT4X4 tempLeds.pdb
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.exe
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\MERT4X4 tempLeds.pdb
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csprojResolveAssemblyReference.cache
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\buolcak.Form_main.resources
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\tempLeds.Properties.Resources.resources
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\obj\Release\mert4x4 GPU_LED client.csproj.GenerateResource.Cache
+E:\projeler\mert4x4 MagicLed ram usage\mert4x4 GPU_LED_CLIENT\mert4x4 GPU_LED\buolcak\bin\Release\Mert4x4-MagicLed.exe.config

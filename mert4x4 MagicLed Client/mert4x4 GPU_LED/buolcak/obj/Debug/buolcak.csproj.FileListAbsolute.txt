@@ -1,0 +1,9 @@
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Debug\buolcak.exe.config
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.csprojResolveAssemblyReference.cache
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.Properties.Resources.resources
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.csproj.GenerateResource.Cache
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Debug\buolcak.exe
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\bin\Debug\buolcak.pdb
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.exe
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.pdb
+C:\Users\Mert4x4\Desktop\bu olucak\buolcak\buolcak\obj\Debug\buolcak.Form_main.resources
